@@ -1,1 +1,29 @@
-/* You can add global styles to this file, and also import other style files */
+@import "src/assets/globals";
+
+.button, button {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 2px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #1e90ff;
+  color: white;
+}
+
+a.no-link-style {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  padding-top: $header-height;
+}

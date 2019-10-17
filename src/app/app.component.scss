@@ -1,0 +1,23 @@
+@import "src/assets/globals";
+
+#app-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: $header-height;
+  background-color: #0000cd;
+  color: white;
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+
+  a:hover {
+    color: gold;
+  }
+}
+
+#app-container {
+  padding: 0 20px;
+  font-size: 18px;
+}
