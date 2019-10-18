@@ -1,0 +1,84 @@
+{
+  "COMMENT": "This should come back as HTTP 200",
+  "message": "success",
+  "taxonomy": {
+    "id": 1234,
+    "name": "Guess Who?",
+    "description": "Let's play a game! Pick a person then answer questions about them to have the site guess who:",
+    "creator": "blakeo_x",
+    "creationTime": "",
+    "updateTime": "",
+    "qualities": [
+      "Are they a man?",
+      "Do they wear glasses?",
+      "Do they have red hair?",
+      "Do they have blonde hair?"
+    ],
+    "members": [
+      {
+        "name": "Gwen",
+        "quality": "0000"
+      },
+      {
+        "name": "Rebbecca",
+        "quality": "0001"
+      },
+      {
+        "name": "Martha",
+        "quality": "0010"
+      },
+      {
+        "name": "Susie",
+        "quality": "0011"
+      },
+      {
+        "name": "Tiffany",
+        "quality": "0100"
+      },
+      {
+        "name": "Charlene",
+        "quality": "0101"
+      },
+      {
+        "name": "Lauren",
+        "quality": "0110"
+      },
+      {
+        "name": "Carlie",
+        "quality": "0111"
+      },
+      {
+        "name": "Blake",
+        "quality": "1000"
+      },
+      {
+        "name": "Charlie",
+        "quality": "1001"
+      },
+      {
+        "name": "Max",
+        "quality": "1010"
+      },
+      {
+        "name": "Alex",
+        "quality": "1011"
+      },
+      {
+        "name": "Harry",
+        "quality": "1100"
+      },
+      {
+        "name": "Gerald",
+        "quality": "1101"
+      },
+      {
+        "name": "Spoompy",
+        "quality": "1110"
+      },
+      {
+        "name": "Skadoodle",
+        "quality": "1111"
+      }
+    ]
+  }
+}
