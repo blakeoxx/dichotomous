@@ -2,10 +2,10 @@
   "COMMENT": "This should come back as HTTP 200",
   "message": "success",
   "taxonomy": {
-    "id": "",
-    "name": "",
-    "description": "",
-    "creator": "",
+    "id": 1234,
+    "name": "Guess Who?",
+    "description": "Let's play a game! Pick a person then answer questions about them to have the site guess who:",
+    "creator": "blakeo_x",
     "creationTime": "",
     "updateTime": "",
     "qualities": [
